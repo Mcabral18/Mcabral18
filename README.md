@@ -1,5 +1,5 @@
 
-### Hi there, I'm Marco -[https://mcabral18.github.io/marcoportfolio.github.io/] 👋
+### Hi there, I'm Marco -[https://mcabral18.github.io/portfolio/] 👋
 
 ## I'm a Front-end Developer
 - 🔭 I’m currently working on my Computer Engineering Master degree
