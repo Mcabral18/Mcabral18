@@ -31,6 +31,5 @@
 <br />
 
 
-
 [linkedin]: https://www.linkedin.com/in/marco-cabral/
-[website]: https://mcabral18.github.io/marcoportfolio.github.io/
+[website]: https://mcabral18.github.io/Portfolio/
