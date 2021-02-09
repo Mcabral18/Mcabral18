@@ -2,7 +2,6 @@
 ### Hi there, I'm Marco -[https://mcabral18.github.io/Portfolio/] 👋
 
 ## I'm a Front-end Developer
-- 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning Vue.Js 🤣
 - 👯 I'm looking for opportunities to improve myself
 - ⚡ Fun fact: I love coding
