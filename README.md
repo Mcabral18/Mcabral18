@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Marco -[https://mcabral18.github.io/Portfolio/] 👋
 
-## I'm a Front-end Developer & Web Developer Wordpress
+## I am a Web Developer with experience building websites and web applications. I specialize in building custom themes for wordpress. I also have experience working with React, Gatsby and Nextjs.
 - 🌱 I’m currently learning React | Gatsby | NextJs 🤣
 - 👯 I'm looking for opportunities to improve myself
 - ⚡ Fun fact: 404
@@ -35,12 +35,11 @@
 [website]: https://mcabral18.github.io/Portfolio/
 
 ### Recent Projects:<br />
-https://kia.pt/<br />
-https://m.kia.pt/<br />
-https://forumaveiro.com/<br />
-https://news-cbre.pt/<br />
-https://www.baraofladgate.com/<br />
-https://santaclaraporto.pt/<br />
-https://conquistadorpalace.pt/<br />
-https://planoamigo.pt/<br />
-https://www.blip.deliverymanager.pt/<br />
+<a href="https://kia.pt/">Kia Portugal</a><br />
+<a href="https://m.kia.pt/">Kia Portugal Mobile</a><br />
+<a href="https://forumaveiro.com/">Forum Aveiro</a> <br />
+<a href="https://www.baraofladgate.com/">Barão Fladgate</a><br />
+<a href="https://santaclaraporto.pt/">Igreja Santa Clara Porto</a><br />
+<a href="https://conquistadorpalace.pt/">Conquistador palace</a><br />
+<a href="https://planoamigo.pt/">Endesa</a><br />
+<a href="https://www.blip.deliverymanager.pt/">Blip</a><br />
