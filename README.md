@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Marco -[https://mcabral18.github.io/Portfolio/] 👋
 
-## I am a Web Developer with experience building websites and web applications. I specialize in building custom themes for wordpress. I also have experience working with React, Gatsby and Nextjs.
+#### I am a Web Developer with experience building websites and web applications. I specialize in building custom themes for wordpress. I also have experience working with React, Gatsby and Nextjs.
 - 🌱 I’m currently learning React | Gatsby | NextJs 🤣
 - 👯 I'm looking for opportunities to improve myself
 - ⚡ Fun fact: 404
@@ -35,11 +35,11 @@
 [website]: https://mcabral18.github.io/Portfolio/
 
 ### Recent Projects:<br />
-<a href="https://kia.pt/">Kia Portugal</a><br />
-<a href="https://m.kia.pt/">Kia Portugal Mobile</a><br />
-<a href="https://forumaveiro.com/">Forum Aveiro</a> <br />
-<a href="https://www.baraofladgate.com/">Barão Fladgate</a><br />
-<a href="https://santaclaraporto.pt/">Igreja Santa Clara Porto</a><br />
-<a href="https://conquistadorpalace.pt/">Conquistador palace</a><br />
-<a href="https://planoamigo.pt/">Endesa</a><br />
-<a href="https://www.blip.deliverymanager.pt/">Blip</a><br />
+<a target="_blank" href="https://kia.pt/">Kia Portugal</a><br />
+<a target="_blank" href="https://m.kia.pt/">Kia Portugal Mobile</a><br />
+<a target="_blank" href="https://forumaveiro.com/">Forum Aveiro</a> <br />
+<a target="_blank" href="https://www.baraofladgate.com/">Barão Fladgate</a><br />
+<a target="_blank" href="https://santaclaraporto.pt/">Igreja Santa Clara Porto</a><br />
+<a target="_blank" href="https://conquistadorpalace.pt/">Conquistador palace</a><br />
+<a target="_blank" href="https://planoamigo.pt/">Endesa</a><br />
+<a target="_blank" href="https://www.blip.deliverymanager.pt/">Blip</a><br />
