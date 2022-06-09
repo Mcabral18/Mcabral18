@@ -34,7 +34,7 @@
 [linkedin]: https://www.linkedin.com/in/marco-cabral/
 [website]: https://mcabral18.github.io/Portfolio/
 
-### Languages and Tools:<br />
+### Recent Projects:<br />
 https://kia.pt/<br />
 https://m.kia.pt/<br />
 https://forumaveiro.com/<br />
