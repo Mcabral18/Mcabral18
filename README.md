@@ -33,3 +33,14 @@
 
 [linkedin]: https://www.linkedin.com/in/marco-cabral/
 [website]: https://mcabral18.github.io/Portfolio/
+
+Work
+https://kia.pt/
+https://m.kia.pt/
+https://forumaveiro.com/
+https://news-cbre.pt/
+https://www.baraofladgate.com/
+https://santaclaraporto.pt/
+https://conquistadorpalace.pt/
+https://planoamigo.pt/
+https://www.blip.deliverymanager.pt/
