@@ -43,3 +43,4 @@
 <a target="_blank" href="https://conquistadorpalace.pt/">Conquistador palace</a><br />
 <a target="_blank" href="https://planoamigo.pt/">Endesa</a><br />
 <a target="_blank" href="https://www.blip.deliverymanager.pt/">Blip</a><br />
+<a target="_blank" href="https://wewantyourbrain.com/">Natixis Brains</a><br />
