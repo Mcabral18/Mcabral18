@@ -1,5 +1,5 @@
 
-### Hi there, I'm Marco -[https://marcocabral.vercel.app] 👋
+### Hi there, I'm Marco 👋
 
 #### I am a Web Developer with experience building websites and web applications. I specialize in building custom themes for wordpress. I also have experience working with React, Gatsby and Nextjs.
 - 🌱 I’m currently learning React | Gatsby | NextJs 🤣
@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ab" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ab" width="22px" target="_blank" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="a | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
