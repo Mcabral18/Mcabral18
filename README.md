@@ -1,5 +1,5 @@
 
-### Hi there, I'm Marco -[https://mcabral18.github.io/Portfolio/] 👋
+### Hi there, I'm Marco -[https://marcocabral.vercel.app] 👋
 
 #### I am a Web Developer with experience building websites and web applications. I specialize in building custom themes for wordpress. I also have experience working with React, Gatsby and Nextjs.
 - 🌱 I’m currently learning React | Gatsby | NextJs 🤣
@@ -32,7 +32,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/marco-cabral/
-[website]: https://mcabral18.github.io/Portfolio/
+[website]: https://marcocabral.vercel.app
 
 ### Recent Projects:<br />
 <a target="_blank" href="https://kia.pt/">Kia Portugal</a><br />
