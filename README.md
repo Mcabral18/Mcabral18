@@ -41,7 +41,7 @@
 <a target="_blank" href="https://www.baraofladgate.com/">Barão Fladgate</a><br />
 <a target="_blank" href="https://santaclaraporto.pt/">Igreja Santa Clara Porto</a><br />
 <a target="_blank" href="https://conquistadorpalace.pt/">Conquistador palace</a><br />
-<a target="_blank" href="https://planoamigo.pt/">Endesa</a><br />
+<a target="_blank" href="https://planoamigo.pt/">Endesa Plano Amigo</a><br />
 <a target="_blank" href="https://www.blip.deliverymanager.pt/">Blip</a><br />
 <a target="_blank" href="https://wewantyourbrain.com/">Natixis Brains</a><br />
 <a target="_blank" href="https://croftpink.com/pt/">Croft Pink</a><br />
@@ -51,3 +51,5 @@
 <a target="_blank" href="https://alamedashopping.pt/">Alameda Shop & Spot</a><br />
 <a target="_blank" href="https://www.hwlsurf.pt/">HWL SURF</a><br />
 <a target="_blank" href="http://utopian.pt/">Utopian Hotels</a><br />
+<a target="_blank" href="https://edificio24dejulho98.pt/">CBRE Edifício 24</a><br />
+<a target="_blank" href="https://news-cbre.pt/">CBRE Newsletter</a><br />
