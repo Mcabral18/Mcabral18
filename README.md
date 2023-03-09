@@ -44,3 +44,10 @@
 <a target="_blank" href="https://planoamigo.pt/">Endesa</a><br />
 <a target="_blank" href="https://www.blip.deliverymanager.pt/">Blip</a><br />
 <a target="_blank" href="https://wewantyourbrain.com/">Natixis Brains</a><br />
+<a target="_blank" href="https://croftpink.com/pt/">Croft Pink</a><br />
+<a target="_blank" href="https://nossoshopping.pt/">Nosso Shopping</a><br />
+<a target="_blank" href="https://www.8avenida.com/">8Avenida</a><br />
+<a target="_blank" href="https://torreshopping.pt/">TorresShopping</a><br />
+<a target="_blank" href="https://alamedashopping.pt/">Alameda Shop & Spot</a><br />
+<a target="_blank" href="https://www.hwlsurf.pt/">HWL SURF</a><br />
+<a target="_blank" href="http://utopian.pt/">Utopian Hotels</a><br />
