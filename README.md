@@ -41,7 +41,7 @@
 <a target="_blank" href="https://www.baraofladgate.com/">Barão Fladgate</a><br />
 <a target="_blank" href="https://santaclaraporto.pt/">Igreja Santa Clara Porto</a><br />
 <a target="_blank" href="https://conquistadorpalace.pt/">Conquistador palace</a><br />
-<a target="_blank" href="https://planoamigo.pt/">Endesa Plano Amigo</a><br />
+<a target="_blank" href="https://planoamigoendesa.pt/cliente/">Endesa Plano Amigo</a><br />
 <a target="_blank" href="https://www.blip.deliverymanager.pt/">Blip</a><br />
 <a target="_blank" href="https://wewantyourbrain.com/">Natixis Brains</a><br />
 <a target="_blank" href="https://croftpink.com/pt/">Croft Pink</a><br />
