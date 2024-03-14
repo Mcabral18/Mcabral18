@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Marco 👋
 
-#### I am a Web Developer with experience building websites and web applications. I specialize in building custom themes for wordpress. I also have experience working with React, Gatsby and Nextjs.
+#### I am a Developer with experience building websites and web applications. I specialize in building custom themes for wordpress. I also have experience working with Nuxtjs.
 - 🌱 I’m currently learning React | Gatsby | NextJs 🤣
 - 👯 I'm looking for opportunities to improve myself
 - ⚡ Fun fact: 404
