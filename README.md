@@ -2,7 +2,7 @@
 ### Hi there, I'm Marco 👋
 
 #### I am a Developer with experience building websites and web applications. I specialize in building custom themes for wordpress. I also have experience working with Nuxtjs.
-- 🌱 I’m currently learning React | Gatsby | NextJs 🤣
+- 🌱 I’m currently learning 🤣
 - 👯 I'm looking for opportunities to improve myself
 - ⚡ Fun fact: 404
 
