@@ -41,6 +41,7 @@
 
 ### Recent Projects:<br />
 <a target="_blank" href="https://www.planetiers.com">Planetiers</a><br />
+<a target="_blank" href="https://labomba.studio/">La Bomba Studio</a><br />
 <a target="_blank" href="https://kia.pt/">Kia Portugal</a><br />
 <a target="_blank" href="https://m.kia.pt/">Kia Portugal Mobile</a><br />
 <a target="_blank" href="https://forumaveiro.com/">Forum Aveiro</a> <br />
