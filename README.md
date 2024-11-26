@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Marco 👋
 
-#### I'm a Developer with expertise in building responsive websites and dynamic web applications. I specialize in crafting custom WordPress themes tailored to unique client needs, combining strong attention to detail with a passion for clean, efficient code. Beyond WordPress, I have hands-on experience with Nuxt.js for creating modern, performant web applications with Vue.js. I’m always exploring new ways to enhance user experience and optimize web performance. Let's build something great together!
+#### I'm a Developer with expertise in building responsive websites and dynamic web applications. I specialize in crafting custom WordPress themes tailored to unique client needs, combining strong attention to detail with a passion for clean, efficient code. Beyond WordPress, I have hands-on experience with Nuxt.js for creating modern, performant web applications. I’m always exploring new ways to enhance user experience and optimize web performance. Let's build something great together!
 
 - 🌱 I’m currently learning 🤣
 - ⚡ Fun fact: 404
