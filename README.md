@@ -38,8 +38,8 @@
 
 [linkedin]: https://www.linkedin.com/in/marco-cabral/
 [website]: https://marcocabral.vercel.app
-
 ### Recent Projects:<br />
+<a target="_blank" href="https://labomba.studio/">LaBomba Studio</a><br />
 <a target="_blank" href="https://www.planetiers.com">Planetiers</a><br />
 <a target="_blank" href="https://labomba.studio/">La Bomba Studio</a><br />
 <a target="_blank" href="https://kia.pt/">Kia Portugal</a><br />
