@@ -39,7 +39,6 @@
 [linkedin]: https://www.linkedin.com/in/marco-cabral/
 [website]: https://marcocabral.vercel.app
 ### Recent Projects:<br />
-<a target="_blank" href="https://labomba.studio/">LaBomba Studio</a><br />
 <a target="_blank" href="https://www.planetiers.com">Planetiers</a><br />
 <a target="_blank" href="https://labomba.studio/">La Bomba Studio</a><br />
 <a target="_blank" href="https://kia.pt/">Kia Portugal</a><br />
@@ -60,3 +59,5 @@
 <a target="_blank" href="http://utopian.pt/">Utopian Hotels</a><br />
 <a target="_blank" href="https://edificio24dejulho98.pt/">CBRE Edifício 24</a><br />
 <a target="_blank" href="https://news-cbre.pt/">CBRE Newsletter</a><br />
+<a target="_blank" href="https://goxplora.com/">Vizitar</a><br />
+<a target="_blank" href="https://labomba.studio/">LaBomba Studio</a><br />
