@@ -71,6 +71,8 @@ Aqui estão os principais projetos e plataformas em que colaborei ativamente no 
 
 ---
 
+[<img src="https://img.shields.io/badge/Download_CV-PDF-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />](./Marco_Cabral_CV.pdf)
+
 ### 📬 Connect with me
 
 <p align="left">
