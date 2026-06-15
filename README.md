@@ -45,7 +45,7 @@ Aqui estão os principais projetos e plataformas em que colaborei ativamente no 
 | 📊 [VizitAR Tours Dashboard](https://tours.vizitar.com/dashboard) | Analytics & Interactive Quizzes | Nuxt.js, Analytical Dashboards, JavaScript |
 | 🏛️ [CM Setúbal Tours](https://cm-setubal.tours.vizitar.com) | Institutional Immersive Tourism | Nuxt.js, Geospatial Mapping, Responsive UI |
 | 🌌 [VizitAR Pixel](https://pixel.vizitar.com) | Immersive Education & Virtual Views | Nuxt.js, WebVR/WebAR, 360° Video/Audio |
-| 🏗️ [VizitAR IFC](https://Ifc.ar.vizitar.com) | 3D Model Loading & Rendering | Nuxt.js, TypeScript, 3D Object Rendering |
+| 🏗️ [VizitAR LFC](https://lfc.ar.vizitar.com) | 3D Model Loading & Rendering | Nuxt.js, TypeScript, 3D Object Rendering |
 | 🎒 [Escola Digital Axis](https://escoladigital.axis.vizitar.com) | EdTech Immersive Platform | Nuxt.js, Interactive UI Layouts |
 | 🏙️ [Virtual Aveiro](https://aveiro.virtual.vizitar.com) | Digital Twin & Virtual Tourism |  Nuxt.js, 360° Media Player |
 | 🛏️ [Virtual Eurospuma](https://eurospuma.virtual.vizitar.com) | Corporate Interactive Showcase | Nuxt.js, Custom Content Management |
