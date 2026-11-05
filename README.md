@@ -1,91 +1,123 @@
-<h2 align="left">Hi there, I'm Marco 👋</h2>
+<div align="center">
 
-I'm a **Frontend Developer** specializing in architectural planning and building fast, responsive, and modern web applications using **Nuxt.js**, **Vue.js**, and **TypeScript**. I’m passionate about crafting intuitive user interfaces, writing clean and scalable code, and optimizing client-side performance across all viewports.
+# ⚡ Marco Cabral
+### **Frontend Developer • Architectural Planning & Web App Engineering**
 
-Over my career, I have evolved from engineering high-performance, modular custom WordPress themes to building complex Single Page Applications (SPAs), SaaS business management tools, interactive 3D scene managers, and cutting-edge WebAR/WebVR platforms.
+` Vue 3 / Nuxt 3 ` • ` TypeScript ` • ` Pinia ` • ` Geospatial Systems (Leaflet / Turf.js) ` • ` Web3D / WebAR `
 
----
+<br/>
 
-### 🛠️ Language and Tools
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-marcocabral.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://marcocabral.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-marco--cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-cabral/)
+[![CV](https://img.shields.io/badge/RESUME-Download_PDF-E50914?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Marco_Cabral_CV.pdf)
 
-#### 🚀 Frontend Development
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxtjs,pinia,react,vite)](https://skillicons.dev)
-
-#### 🗺️ Geospatial & Immersive (Specialized)
-*Experience with: Leaflet, Leaflet Geoman, Turf.js, Google Maps API, WebAR/WebVR, 3D Object Rendering*
-
-#### 🗄️ Backend & CMS
-[![Backend Skills](https://skillicons.dev/icons?i=wordpress,php)](https://skillicons.dev)
-
-#### 🔧 Tools & Workflow
-[![Tools Skills](https://skillicons.dev/icons?i=vscode,postman,git,github)](https://skillicons.dev)
+<br/>
 
 ---
 
-### 📊 GitHub Stats & Performance
+</div>
+
+## 📌 Executive Overview
+
+Engineering **scalable, high-performance web applications** and **interactive digital experiences** with a strong focus on modern client-side architecture and responsive UI fidelity.
+
+Specialized in modern Vue 3 & Nuxt 3 ecosystems paired with TypeScript. While experienced in engineering high-fidelity custom WordPress themes and content management systems, my primary focus is delivering cutting-edge frontend architectures — spanning **Geospatial & Agricultural SaaS**, **Interactive WebAR/WebVR Platforms**, and **High-Traffic Enterprise Solutions**.
+
+- 🎯 **Core Focus:** Modular Component Architecture, State Management (Pinia), Performance Optimization & Core Web Vitals.
+- 🗺️ **Domain Expertise:** Advanced Mapping & Geofencing (Leaflet, Leaflet Geoman, Turf.js, Google Maps API), Interactive 3D Model Renderers, 360° Media Viewers & Web Applications.
+
+---
+
+## 🛠️ Technical Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top"><b>🚀 Core Frontend</b></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,pinia,html,css,sass,react,vite" alt="Frontend Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🗺️ Geospatial & Web3D</b></td>
+    <td width="75%">
+      <code>Leaflet.js</code> &nbsp;•&nbsp; <code>Leaflet Geoman</code> &nbsp;•&nbsp; <code>Turf.js</code> &nbsp;•&nbsp; <code>Google Maps API</code> &nbsp;•&nbsp; <code>WebAR / WebVR</code> &nbsp;•&nbsp; <code>3D Rendering</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🗄️ Backend & CMS</b></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=wordpress,php" alt="Backend Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🔧 Workflow & Tooling</b></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,eslint" alt="Tools Stack" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Activity & Engineering Metrics
 
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com?user=Mcabral18&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3)
+<img height="165" src="https://streak-stats.demolab.com?user=Mcabral18&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=8&order=3" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcabral18&layout=compact&theme=onedark&hide_border=true&card_width=400" alt="Top Languages" />
 
 </div>
 
 ---
 
-### 🚀 Projects Portfolio
+## 🚀 Featured Projects Portfolio
 
-Aqui estão os principais projetos e plataformas em que colaborei ativamente no desenvolvimento e arquitetura frontend:
+### 🌟 SaaS & Application Platforms
 
-| Project | Industry / Type | Tech Stack |
+| Status | Project | Description & Scope | Architecture & Tech |
+| :---: | :--- | :--- | :--- |
+| `SaaS` | 🛠️ **SaaS Site Builder** | Dynamic Page & Layout Builder Engine | Vue.js, Filament PHP |
+| `Live` | 🍇 [VineWine Platform](https://vinewineplatform.com) | Precision Agriculture & Geofencing Platform | Nuxt 3, Pinia, Leaflet, Turf.js, Chart.js |
+| `Live` | 📦 [Blip Delivery Manager](https://www.blip.deliverymanager.pt/) | Logistics & Operations Portal | Custom WordPress, ACF Pro |
+
+<br/>
+
+### 🥽 Immersive & WebAR Ecosystem (VizitAR)
+
+| Status | Project | Focus & Deliverable | Architecture |
+| :---: | :--- | :--- | :--- |
+| `Live` | 🗺️ [VizitAR Main Hub](https://vizitar.com/) | Tourism SaaS & Interactive WebAR Hub | Vue.js, Nuxt.js, 3D Loaders |
+| `Private`| ⚙️ **VizitAR Backoffice** | Core Engine, Multi-Tenant CMS & 3D Scene Assembly | Nuxt.js, Custom CMS Modules |
+| `Live` | 📊 [VizitAR Tours Dashboard](https://tours.vizitar.com/dashboard) | Tour Analytics, Gamification & Quizzes | Nuxt.js, Analytics Engine |
+| `Live` | 🏛️ [CM Setúbal Tours](https://cm-setubal.tours.vizitar.com) | Institutional Heritage & Mapping | Nuxt.js, Geospatial Mapping |
+| `Live` | 🌌 [VizitAR Pixel](https://pixel.vizitar.com) | EdTech Immersive 360° Media Player | Nuxt.js, WebVR/WebAR |
+| `Live` | 🏗️ [VizitAR LFC](https://lfc.ar.vizitar.com) | High-Performance 3D Model Renderer | Nuxt.js, TypeScript, 3D Viewport |
+| `Live` | 🎒 [Escola Digital Axis](https://escoladigital.axis.vizitar.com) | Interactive EdTech Learning Platform | Nuxt.js, Modular Layouts |
+| `Live` | 🏙️ [Virtual Aveiro](https://aveiro.virtual.vizitar.com) | Digital Twin & Virtual City Tour | Nuxt.js, 360° Media Player |
+| `Live` | 🛏️ [Virtual Eurospuma](https://eurospuma.virtual.vizitar.com) | Industrial Showcase & Virtual Showroom | Nuxt.js, Custom Content Systems |
+
+<br/>
+
+### 🌐 Corporate Platforms, Agencies & Brand Experience
+
+| Project | Sector | Core Technical Highlights |
 | :--- | :--- | :--- |
-| 🛠️ **SaaS Site Builder** | Web Development / Site Builder / SaaS | Vue.js, Filament PHP (Backend) |
-| 🍇 [VineWine Platform](https://vinewineplatform.com) | Agricultural SaaS & Geofencing | Nuxt 3, Pinia, Leaflet, Turf.js, Chart.js |
-| 🗺️ [VizitAR Main Hub](https://vizitar.com/) | Immersive Tourism SaaS & WebAR | Vue.js, Nuxt.js, 3D Loaders, 360° Media |
-| ⚙️ [VizitAR Backoffice](https://manage.vizitar.com/) | Multi-domain SaaS Infrastructure | Nuxt.js, Custom CMS, 3D Scene Assembly |
-| 📊 [VizitAR Tours Dashboard](https://tours.vizitar.com/dashboard) | Analytics & Interactive Quizzes | Nuxt.js, Analytical Dashboards, JavaScript |
-| 🏛️ [CM Setúbal Tours](https://cm-setubal.tours.vizitar.com) | Institutional Immersive Tourism | Nuxt.js, Geospatial Mapping, Responsive UI |
-| 🌌 [VizitAR Pixel](https://pixel.vizitar.com) | Immersive Education & Virtual Views | Nuxt.js, WebVR/WebAR, 360° Video/Audio |
-| 🏗️ [VizitAR LFC](https://lfc.ar.vizitar.com) | 3D Model Loading & Rendering | Nuxt.js, TypeScript, 3D Object Rendering |
-| 🎒 [Escola Digital Axis](https://escoladigital.axis.vizitar.com) | EdTech Immersive Platform | Nuxt.js, Interactive UI Layouts |
-| 🏙️ [Virtual Aveiro](https://aveiro.virtual.vizitar.com) | Digital Twin & Virtual Tourism |  Nuxt.js, 360° Media Player |
-| 🛏️ [Virtual Eurospuma](https://eurospuma.virtual.vizitar.com) | Corporate Interactive Showcase | Nuxt.js, Custom Content Management |
-| 🌍 [Planetiers](https://www.planetiers.com) | Sustainability Platform | HTML5/CSS3, JavaScript, UI Layout Modules |
-| 🧠 [Natixis Brains](https://wewantyourbrain.com/) | Corporate Hub (Tech) | Custom WordPress, ACF Pro, Core Web Vitals |
-| 🏎️ [Kia Portugal](https://kia.pt/) & [Mobile](https://m.kia.pt/) | Automotive Sector | Custom WordPress, ACF ProSCSS |
-| ⚡ [Endesa Plano Amigo](https://planoamigoendesa.pt/cliente/) | Energy Sector Web App | Custom WordPress, ACF Pro, JavaScript (ES6+) |
-| 🛍️ [Forum Aveiro](https://forumaveiro.com/) | Retail / Shopping Center | Custom WordPress, ACF Pro, Frontend Fidelity |
-| 🎨 [La Bomba Studio](https://labomba.studio/) | Creative Agency Hub | Nuxt.js, SSR, Core Web Vitals Optimization |
-| 🍷 [Barão Fladgate](https://www.baraofladgate.com/) | Premium Hospitality | Custom Theme Development, ACF Pro |
-| ⛪ [Igreja Santa Clara Porto](https://santaclaraporto.pt/) | Culture & Heritage | Custom WordPress, Responsive Design |
-| 🏰 [Conquistador Palace](https://conquistadorpalace.pt/) | Luxury Hospitality | Tailored Web Development, CSS3/SASS |
-| 📦 [Blip Delivery Manager](https://www.blip.deliverymanager.pt/) | Logistics & Operations SaaS | Custom WordPress, Advanced Custom Fields |
-| 🍾 [Croft Pink](https://croftpink.com/pt/) | Wine & Beverage Hub | Custom WordPress, JavaScript (ES6+) |
-| 🛒 [Nosso Shopping](https://nossoshopping.pt/) | Commercial Center | Custom WordPress, Responsive Layouts |
-| 🛍️ [8Avenida](https://www.8avenida.com/) | Commercial Center | Custom WordPress, ACF Pro |
-| 🏬 [TorreShopping](https://torreshopping.pt/) | Commercial Center | Custom WordPress Theme Development |
-| 📍 [Alameda Shop & Spot](https://alamedashopping.pt/) | Commercial Center | Custom WordPress, Performance Optimization |
-| 🏄‍♂️ [HWL SURF](https://www.hwlsurf.pt/) | Sports & E-commerce | Custom WordPress, Frontend Fidelity |
-| 🏨 [Utopian Hotels](http://utopian.pt/) | Hospitality Group | Custom WordPress, Cross-Browser Compatibility |
-| 🏢 [CBRE Edifício 24](https://edificio24dejulho98.pt/) | Real Estate Institutional | Corporate Web Development |
-| 📰 [CBRE Newsletter](https://news-cbre.pt/) | Corporate Communication | Frontend Email / Web Architecture |
-
----
-
-[<img src="https://img.shields.io/badge/Download_CV-PDF-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />](./Marco_Cabral_CV.pdf)
-
-### 📬 Connect with me
-
-<p align="left">
-  <a href="https://marcocabral.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/marco-cabral/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mcabral18.Mcabral18&" alt="visitor badge" />
-</p>
+| 🎨 [La Bomba Studio](https://labomba.studio/) | Creative Agency | Nuxt.js SSR, High FPS Animations, Performance |
+| ⚡ [Rasgo](https://rasgo.pt/) | Brand Studio | Bespoke UI Engineering, Micro-Interactions |
+| 🧠 [Natixis Brains](https://wewantyourbrain.com/) | Corporate Tech Hub | Custom WordPress, ACF Pro, Core Web Vitals |
+| 🏎️ [Kia Portugal](https://kia.pt/) & [Mobile](https://m.kia.pt/) | Automotive | Custom WordPress, Modular SCSS, Mobile Architecture |
+| ⚡ [Endesa Plano Amigo](https://planoamigoendesa.pt/cliente/) | Energy Sector | Custom WordPress, ACF Pro, Modular ES6+ |
+| 🌍 [Planetiers](https://www.planetiers.com) | Sustainability Platform | HTML5/CSS3, Modular JS Components |
+| 🛍️ [Forum Aveiro](https://forumaveiro.com/) | Retail / Shopping | Custom WordPress, High-Fidelity Design System |
+| 📍 [Alameda Shop & Spot](https://alamedashopping.pt/) | Retail / Commercial | Custom WordPress, Core Web Vitals Optimization |
+| 🏬 [TorreShopping](https://torreshopping.pt/) | Commercial Center | Custom WordPress Theme Architecture |
+| 🛒 [Nosso Shopping](https://nossoshopping.pt/) | Retail / Commercial | Custom WordPress, Mobile-First Layouts |
+| 🛍️ [8Avenida](https://www.8avenida.com/) | Commercial Center | Custom WordPress, Flexible ACF Engine |
+| 🍷 [Barão Fladgate](https://www.baraofladgate.com/) | Hospitality & Tourism | Custom Theme Engineering, ACF Pro |
+| 🍾 [Croft Pink](https://croftpink.com/pt/) | Beverage / Global Brand | Custom WordPress, Interactive Canvas/JS |
+| ⛪ [Igreja Santa Clara Porto](https://santaclaraporto.pt/) | Cultural Heritage | Custom WordPress, High Accessibility |
+| 🏰 [Conquistador Palace](https://conquistadorpalace.pt/) | Luxury Hospitality | Tailored CSS Architecture, SASS |
+| 🏄‍♂️ [HWL SURF](https://hwlsurf.pt/) | E-commerce / Sports | Custom WordPress, High-Fidelity Storefront |
+| 🏨 [Utopian Hotels](https://utopian.pt/) | Hospitality Group | Custom WordPress, Cross-Browser Perfection |
+| 🏢 [CBRE Edifício 24](https://edificio24dejulho98.pt/) | Real Estate | Institutional Portal Architecture |
+|
